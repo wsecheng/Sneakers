@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1505537609935.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C37BB638",
+    "lastKnownWriteTime" : 390842024029,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "azfk4wh2x0",
+        "caption" : "sneakerVolume",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sneakerVolume&cache_key=azfk4wh2x0",
+        "displayedObservations" : 10,
+        "environment" : "",
+        "object" : "sneakerVolume",
+        "totalObservations" : 10,
+        "variables" : 13
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
