@@ -1,6 +1,6 @@
 ---
 title: "Air Jordan Resell Market"
-output: rmarkdown::github_document
+output: html_document
 ---
 ## Data Cleansing 
 ```{r warning = FALSE, message = FALSE}
