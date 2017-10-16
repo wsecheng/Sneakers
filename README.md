@@ -1,2 +1,2 @@
-$ Sneakers
 # Sneakers
+In this project I examine the Air Jordan resell market. I webscraped the data from stockx.com which is an e-commerce site that many sneaker resellers use to list, buy, and sell shoes. I then pull the data into R and create data visualizations to show how the resell market looks for Air Jordans, and to highlight general trends.
